@@ -1,6 +1,6 @@
 ﻿{
     "name": "node-app-terminal",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Terminal Interface for Node.JS applications",
     "main": "./lib/index.js",
     "homepage": "https://shps.io",
